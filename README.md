@@ -23,3 +23,5 @@ I use Python to model physical systems, analyse experimental data, and implement
 ### Currently
 Studying physics while building practical engineering and computational skills. 
 Learning C
+
+<img width="3168" height="1344" alt="Gemini_Generated_Image_g78h0ng78h0ng78h" src="https://github.com/user-attachments/assets/5f6997cc-95eb-474b-94ae-9a7476145d49" />
