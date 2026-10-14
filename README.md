@@ -6,8 +6,6 @@ I'm an MPhys Physics student at the University of Warwick, interested in **engin
 
 I use Python to model physical systems, analyse experimental data, and implement numerical methods. I'm also developing practical hardware experience through electronics, sensor integration, and control systems.
 
-<img width="2590" height="1634" alt="622212646-a0e36b57-f632-40f1-ada8-e9936a02134d" src="https://github.com/user-attachments/assets/c5ccd235-336a-4f1f-867e-6ba10403c140" />
-
 
 ### Technical Skills
 - **Programming:** Python, MicroPython, NumPy, SciPy, Pandas
